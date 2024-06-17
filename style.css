@@ -1,0 +1,29 @@
+.fan-book{
+    height:400px;
+    width:50%;
+    border:0.8 solid gray;
+    margin-left: 400px;
+    margin-top: 30px;
+    }
+    .card{
+        margin-top: 10px;
+    }
+    .box{
+        /*display:flex;
+        flex-direction: column;
+        justify-content: space-evenly;*/
+        border:1px solid black;
+        padding:10px 10px 10px 10px;
+    
+    }
+    .image{
+        background-image: url('https://wallpapercave.com/wp/wp9500194.jpg');
+        background-size: cover;
+        height:500px;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    h1{
+        color:rgb(226, 226, 237);
+    }
